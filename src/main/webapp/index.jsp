@@ -16,7 +16,7 @@
         <div class="nav-container">
             <div class="nav-brand">
                 <i class="fas fa-graduation-cap"></i>
-                <span>JDKT Batch 06</span>
+                <span>Learn Harder </span>
             </div>
             <div class="nav-menu">
                 <a href="#home" class="nav-link">Home</a>
@@ -42,7 +42,7 @@
                 <h1 class="hero-title">
                     Welcome to 
                     <span class="gradient-text">JDKT Training</span>
-                    <div class="batch-badge">Batch 6</div>
+                    <div class="batch-badge">Learning in progress</div>
                 </h1>
                 <div class="instructor-info">
                     <div class="instructor-avatar">
@@ -50,13 +50,13 @@
                     </div>
                     <div class="instructor-details">
                         <h2>I'm Mohammed Maaz Shariff V</h2>
-                        <p>AWS and DevOps Trainer</p>
+                        <p>AWS and DevOps Trainee</p>
                     </div>
                 </div>
                 <div class="hero-stats">
                     <div class="stat-item">
                         <span class="stat-number">800+</span>
-                        <span class="stat-label">Students Trained</span>
+                        <span class="stat-label">Training Goal</span>
                     </div>
                     <div class="stat-item">
                         <span class="stat-number">8</span>
